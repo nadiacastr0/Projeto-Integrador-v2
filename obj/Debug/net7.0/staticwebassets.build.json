@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "1KBuaZv/4H5mGGpsfWH2oesRGkSUjprk4FWcriv6lcM=",
+  "Source": "Beautysoft",
+  "BasePath": "_content/Beautysoft",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Beautysoft\\wwwroot",
+      "Source": "Beautysoft",
+      "ContentRoot": "C:\\Users\\nadia\\source\\repos\\backend-v2\\wwwroot\\",
+      "BasePath": "_content/Beautysoft",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\nadia\\source\\repos\\backend-v2\\wwwroot\\imagens\\baixados.jpeg",
+      "SourceId": "Beautysoft",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nadia\\source\\repos\\backend-v2\\wwwroot\\",
+      "BasePath": "_content/Beautysoft",
+      "RelativePath": "imagens/baixados.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\baixados.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\nadia\\source\\repos\\backend-v2\\wwwroot\\imagens\\ImgDBS.png",
+      "SourceId": "Beautysoft",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nadia\\source\\repos\\backend-v2\\wwwroot\\",
+      "BasePath": "_content/Beautysoft",
+      "RelativePath": "imagens/ImgDBS.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\ImgDBS.png"
+    }
+  ]
+}
